@@ -1,0 +1,10 @@
+Baixar o FrameWork FFmpeg: 
+
+Clique no menu Iniciar do seu Windows, digite cmd (Pronto de Comando) ou PowerShell.
+
+Clique com o botão direito nele e escolha "Executar como Administrador".
+
+Copie o comando abaixo, cole no terminal e aperte Enter:
+
+
+winget install Gyan.FFmpeg
